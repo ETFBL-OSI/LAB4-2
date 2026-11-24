@@ -3,14 +3,15 @@
 
 double saberi(double a, double b)
 {
-    return 0;
+    return a+b;
 }
 
 
 double oduzmi(double a, double b)
 {
 
-    return 0 ;
+    return a-b;
+
 }
 
 

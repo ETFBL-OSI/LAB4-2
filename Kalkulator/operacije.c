@@ -9,17 +9,18 @@ double saberi(double a, double b)
 
 double oduzmi(double a, double b)
 {
-    return 0;
+
+    return 0 ;
 }
 
 
 double pomnozi(double a, double b)
 {
-    return 0;
+    return a * b;
 }
 
 
 double podijeli(double a, double b)
 {
-    return 0;
+    return a / b;
 }
